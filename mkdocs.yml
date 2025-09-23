@@ -1,0 +1,17 @@
+site_name: Tipp-App & Leadmanagement
+site_url: https://DEINUSERNAME.github.io/DEINREPO
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: pink
+  font:
+    text: Roboto
+    code: Roboto Mono
+nav:
+  - Startseite: index.md
+  - Über das Projekt:
+      - Vision: index.md
+      - Entwicklungsetappen: index.md
+  - Team: index.md
+  - Kontakt: index.md
