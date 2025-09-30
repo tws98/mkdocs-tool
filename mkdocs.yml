@@ -11,7 +11,7 @@ theme:
 nav:
   - Startseite: index.md
   - Über das Projekt:
-      - Vision: index.md
+      - Vision: vision.md
       - Entwicklungsetappen: index.md
   - Team: index.md
   - Kontakt: index.md
